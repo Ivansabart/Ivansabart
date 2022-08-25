@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Iván Salazar 
-- 👀 I’m interested in develop quality software
-- 🌱 I’m currently learning backEnd NodeJS
+- 👀 I’m interested in develop quality frontend web pages
+- 🌱 I’m currently learning frontend React.js
 - 💞️ I’m looking to collaborate on web projects 
 - 📫 How to reach me: ivansabart@gmail.com
 
